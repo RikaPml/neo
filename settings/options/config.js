@@ -3,12 +3,12 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // OTHERS
-global.owner = ['62895622436731', '62895622436731']
-global.premium = ['62895622436731']
-global.number = '62895622436731'
-global.botname = 'IkyyBot-MD'
-global.packname = 'IkyyBot-MD'
-global.author = 'By Ikyy-Rikaa'
+global.owner = ['62821464339681', '62821464339681']
+global.premium = ['62821464339681']
+global.number = '62821464339681'
+global.botname = 'Erzbotx-MD'
+global.packname = 'Erzbotx-MD'
+global.author = 'By arzzstore'
 global.emailowner = 'rizkiachmad761@gmail.com'
 global.websiteowner = 'https://github.com/aryjuanda'
 global.region = 'Indonesia'
@@ -19,7 +19,7 @@ global.simbol = "➭"
 global.rkyt = []
 
 // BIARIN:v
-global.creator = '© Created By IkyyRika Official'
+global.creator = '© Created By arzzstore Official'
 
 // MESSAGE
 global.mess = {
